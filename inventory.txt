@@ -1,1 +1,3 @@
-
+CODE       NAME                 STOCK      UNIT COST 
+11         apple                20         30.00     
+22         banana               20         15.00     
